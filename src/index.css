@@ -1,41 +1,4 @@
-.font-weight {
-  font-weight: 900;
-}
-
-.text-red {
-  color: red;
-}
-
-.text-black {
-  color: black;
-}
-
-.light {
-  background-color: #fff;
-  color: #1a1a1a;
-}
-
-.dark {
-  background-color: #1a1a1a;
+.active {
+  background-color: #333;
   color: #fff;
-}
-
-.btn {
-  height: 36px;
-  padding: 0 16px;
-  border-radius: 4px;
-  outline: none;
-  border: 1px solid transparent;
-}
-
-.primary {
-  background-color: blue;
-}
-
-.danger {
-  background-color: red;
-}
-
-.success {
-  background-color: green;
 }
